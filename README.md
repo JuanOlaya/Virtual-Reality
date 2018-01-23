@@ -57,3 +57,7 @@ Jugabilidad: Orientar el videojuego para que incluya conceptos de videojuegos co
 ### 7.  Remoto Control 
 
 Este punto es opcional. Sin embargo, es altamente recomendable para el curso que utilicen un control remoto Bluetooth que sea compatible con sus dispositivos Android.
+
+### Links:
+
+
