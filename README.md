@@ -1,11 +1,8 @@
 # Virtual Reality
 
-
 La entrega del tercer corte consiste en implementar un proyecto en Unity 3D 5.6.3f1 funcional y ejecutable, en parejas o individual con los siguientes elementos:
 
-For this course we use OpenSource VR as VR framework. It runs on any Android device with gyroscope
-
-to check if your phone is compatible with this VR framework download XXX app 
+For this course we use [OSVR as VR framework](https://github.com/OSVR/OSVR-Unity). OSVR is able to run on any Android device that has gyroscope and accelerometer. To check if your phone is compatible with this VR framework download XXX app 
 
 
 ### 1. Reticle VR
