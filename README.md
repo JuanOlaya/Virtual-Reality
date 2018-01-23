@@ -1,4 +1,4 @@
-# Virtual-Reality-Unity
+# Virtual-Reality
 
 
 La entrega del tercer corte consiste en implementar un proyecto en Unity 3D 5.6.3f1 funcional y ejecutable, en parejas o individual con los siguientes elementos:
