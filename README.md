@@ -51,7 +51,7 @@ Simulación de explosiones
 Entre otras
 Jugabilidad: Orientar el videojuego para que incluya conceptos de videojuegos como por ejemplo: puntajes, premios, reglas, enemigos definidos, objetivo del juego y mecánicas convicentes para un videojuego.
 
-### 7.  Remoto Control 
+### 7.  Remote Control 
 
 Este punto es opcional. Sin embargo, es altamente recomendable para el curso que utilicen un control remoto Bluetooth que sea compatible con sus dispositivos Android.
 
