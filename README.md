@@ -69,12 +69,13 @@ In order to map the buttons of the controller with an Unity app running an Andro
 
 ### 8. Agile Development
 
-
+Poner el cronograma aunque esté en español
+Online Gantt Diagram [TeamGantt](https://www.teamgantt.com/)
 
 
 ### Links:
 - [Simulator Sickness Questionnaire](http://w3.uqo.ca/cyberpsy/docs/qaires/ssq/SSQ_va.pdf)  
-http://www.tandfonline.com/doi/abs/10.1207/s15327108ijap0303_3
+VERFICAR CON EL LIBRO VR BOOKhttp://www.tandfonline.com/doi/abs/10.1207/s15327108ijap0303_3
 
 - [Google AR and VR Blog](https://blog.google/products/google-vr/)
 
