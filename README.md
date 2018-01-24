@@ -78,7 +78,7 @@ Acording with the Agile methodologies of development, elaborate a Gantt Diagram 
 - Two Scrum Sprints (2nd and 3rd term each) 
 - Final delivery (5 minutes pitch)
 
-Book recommended: [Agile Game Development with Scrum](https://www.amazon.com/Agile-Development-Scrum-Addison-Wesley-Signature/dp/0321618521/ref=sr_1_1?ie=UTF8&qid=1516825327&sr=8-1&keywords=agile+game+development+with+scrum)
+Recommended Book: [Agile Game Development with Scrum](https://www.amazon.com/Agile-Development-Scrum-Addison-Wesley-Signature/dp/0321618521/ref=sr_1_1?ie=UTF8&qid=1516825327&sr=8-1&keywords=agile+game+development+with+scrum)
 
 Poner el cronograma aunque esté en español
 
@@ -106,6 +106,15 @@ VERFICAR CON EL LIBRO VR BOOK http://www.tandfonline.com/doi/abs/10.1207/s153271
 
 
 # STUDENT PROJECTS
+
+
+<p align="center">
+  <a>
+    <img src="Images/YoutubeVideo.png" width=600 height=170>
+  </a>
+</p>
+
+
 
 
 
