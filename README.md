@@ -66,6 +66,7 @@ In order to map the buttons of the controller with an Unity app running an Andro
 
 
 ### Links:
+- [Simulator Sickness Questionnaire](http://w3.uqo.ca/cyberpsy/docs/qaires/ssq/SSQ_va.pdf)
 - [Google AR and VR Blog](https://blog.google/products/google-vr/)
 
 ### VR apps:
