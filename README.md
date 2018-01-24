@@ -1,5 +1,7 @@
 # Virtual Reality - Cardboard  (OSVR and Unity)
 
+This repository is associated with the subject Virtual Reality taught in the university School of Arts and Letters by Juan Olaya in the semester 2017.2. 
+
 For this course we use [Unity 3D](https://unity3d.com/) 5.6.3f1 and [OSVR](https://github.com/OSVR/OSVR-Unity) as VR framework. OSVR is able to run on any Android device provided of a gyroscope and accelerometer. To check if your Android device is compatible, download the [Cardboard App](https://play.google.com/store/apps/details?id=com.google.samples.apps.cardboarddemo&hl=es_419). The following are the components required for the course.
 
 
@@ -46,9 +48,9 @@ In order to enhance the performance of the App, setup the Texture Compression in
 </p>
 
 ### 6. Interactive Experience
-For the final project is relevant includ the concepts of Game Design, such as: goal of the game, score, rules, awards, vivid interactive narrative and convinving mechanics.
+For the video game is relevant includ the concepts of Game Design, such as: goal of the game, score, rules, awards, vivid interactive narrative and convinving mechanics.
 
-Moreover, is important to enrich the experience with:
+Moreover, is important to enrich the experience of the video game with:
 
 - Non Player Characters (NPC) from [Mixamo](https://www.mixamo.com)
 - Waypoints para el caso de mover animales o automóviles
@@ -94,7 +96,7 @@ VERFICAR CON EL LIBRO VR BOOK http://www.tandfonline.com/doi/abs/10.1207/s153271
 ### Bibliography
 - [The VR Book: Human-Centered Design for Virtual Reality - ACM Books, Jerald (2015)](https://www.amazon.com/VR-Book-Human-Centered-Virtual-Reality/dp/1970001127/ref=sr_1_1?ie=UTF8&qid=1516756592&sr=8-1&keywords=VR-Book-Human-Centered-Virtual-Reality)
 
--[Agile Game Development with Scrum, Keith (2010)](https://www.amazon.com/Agile-Development-Scrum-Addison-Wesley-Signature/dp/0321618521/ref=sr_1_1?ie=UTF8&qid=1516825327&sr=8-1&keywords=agile+game+development+with+scrum)
+- [Agile Game Development with Scrum, Keith (2010)](https://www.amazon.com/Agile-Development-Scrum-Addison-Wesley-Signature/dp/0321618521/ref=sr_1_1?ie=UTF8&qid=1516825327&sr=8-1&keywords=agile+game+development+with+scrum)
 
 - [Unity Virtual Reality Projects, Linowes (2015)](https://www.amazon.com/dp/178398855X/ref=sspa_dk_detail_0?psc=1&pd_rd_i=178398855X&pd_rd_wg=wDE6o&pd_rd_r=VS6C5Y7P24ZZC3FJ6KR5&pd_rd_w=03w3M)
 
@@ -104,12 +106,23 @@ VERFICAR CON EL LIBRO VR BOOK http://www.tandfonline.com/doi/abs/10.1207/s153271
 
 
 # STUDENT PROJECTS
+The students developed 3 Serious Games and 4 Entertainment Games, as can be seen in the following video:
 
 <p align="center">
   <a href="https://youtu.be/51uu72lHyX4">
     <img src="Images/YoutubeVideo.png" width=600 height=320>
   </a>
 </p>
+
+Serious Games:
+- Inesperadamente
+- Source Separation
+- Profesor Sagan
+Entertainment Games:
+- Space Discovery
+- Anamorphic Room
+- ApocaZomWorld
+- FPS
 
 
 
