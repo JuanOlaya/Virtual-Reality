@@ -7,22 +7,22 @@ For this course we use [OSVR as VR framework](https://github.com/OSVR/OSVR-Unity
 
 ### 1. Reticle VR
 Utilizando la retícula VR implementar mínimo (3) tres interacciones diferentes utilizando la retícula VR vista en clase, es decir, las (2) dos interacciones previas del segundo corte y mínimo (1) una interacción nueva. Por ejemplo:
--Rotate GameObjects
--Change Color of GameObjects
--Destroy GameObjects
--Drag and Drop 2D/3D GameObjects
--Add Force to GameObjects (Normal Vector)
--Impact Effect (Explosion Particles)
+- Rotate GameObjects
+- Change Color of GameObjects
+- Destroy GameObjects
+- Drag and Drop 2D/3D GameObjects
+- Add Force to GameObjects (Normal Vector)
+- Impact Effect (Explosion Particles)
 
 ### 2. Movement in VR
 
 Implementar al menos un método de navegación:
--First Person Character Controller 
-  -Jump
--Third Person Character Controller
--Aircraft/Drone Controller
--Motorcycle Controller
--Car Controller
+- First Person Character Controller 
+  - Jump
+- Third Person Character Controller
+- Aircraft/Drone Controller
+- Motorcycle Controller
+- Car Controller
 
 ### 3. Software Patterns 
 Utilizar de manera adecuada los scripts VR Interactive Item y VR Eye Raycaster de la OpenSource VR que estamos utilizando:
@@ -55,17 +55,17 @@ Jugabilidad: Orientar el videojuego para que incluya conceptos de videojuegos co
 
 For this course is highly recommended to get some budget VR Glasses with Bluetooth Remote Control compatible with Android devices. A device recomended is the VR-PARK Portable Wireless Bluetooth 3.0 Remote Controller and a plastic headset, for instance, the budget VR Box.
 
-[KeyCode](https://docs.unity3d.com/ScriptReference/KeyCode.html)
-[Conventional Game Input](https://docs.unity3d.com/Manual/ConventionalGameInput.html)
-[Input.GetKey](https://docs.unity3d.com/ScriptReference/Input.GetKey.html)
-[Input.GetKeyDown](https://docs.unity3d.com/ScriptReference/Input.GetKeyDown.html)
+- [KeyCode](https://docs.unity3d.com/ScriptReference/KeyCode.html)
+- [Conventional Game Input](https://docs.unity3d.com/Manual/ConventionalGameInput.html)
+- [Input.GetKey](https://docs.unity3d.com/ScriptReference/Input.GetKey.html)
+- [Input.GetKeyDown](https://docs.unity3d.com/ScriptReference/Input.GetKeyDown.html)
 
 
 ### Links:
-https://blog.google/products/google-vr/
+- [Google AR and VR](https://blog.google/products/google-vr/)
 
 ### VR apps:
-[NextVR](https://www.nextvr.com/)
+- [NextVR](https://www.nextvr.com/)
 
 
 
