@@ -43,22 +43,26 @@ Imágenes integradas 2
 
 ### 6. Interactive Experience
 Además, se tendrá muy en cuenta la aplicación del conocimiento adquirido en otras asignaturas de videojuegos y el tiempo invertido por fuera de clase con el propósito de desarrollar una experiencia vivida y convincente siguiendo la historia planteada en el overview del primer corte. Por ejemplo, para enriquecer la experiencia pueden utilizar:
-- Textures
+
 - Non Player Characters (NPC) from [Mixamo](https://www.mixamo.com)
 - Waypoints para el caso de mover animales o automóviles
+- Textures e.g. [Textures.com](https://www.textures.com/)
 - Physics simulation
 - Explosion simulation
+- Sound Effects 
 
 Jugabilidad: Orientar el videojuego para que incluya conceptos de videojuegos como por ejemplo: puntajes, premios, reglas, enemigos definidos, objetivo del juego y mecánicas convicentes para un videojuego.
 
 ### 7.  VR Glasses/Headset and Game Input for the Remote Controller 
+For this course is highly recommended to get some budget VR Glasses and a Bluetooth Remote Control compatible with Android devices. A device recomended is the VR-PARK Portable Wireless Bluetooth 3.0 Remote Controller and a plastic headset, for instance, the budget VR Box.
 
-For this course is highly recommended to get some budget VR Glasses with Bluetooth Remote Control compatible with Android devices. A device recomended is the VR-PARK Portable Wireless Bluetooth 3.0 Remote Controller and a plastic headset, for instance, the budget VR Box.
+In order to map the buttons of the controller with an Unity app running an Android device please check the following information:
 
 - [KeyCode](https://docs.unity3d.com/ScriptReference/KeyCode.html)
 - [Conventional Game Input](https://docs.unity3d.com/Manual/ConventionalGameInput.html)
 - [Input.GetKey](https://docs.unity3d.com/ScriptReference/Input.GetKey.html)
 - [Input.GetKeyDown](https://docs.unity3d.com/ScriptReference/Input.GetKeyDown.html)
+- [Combination of Keys Pressed](https://answers.unity.com/questions/49285/how-can-i-get-a-combination-of-keys-pressed.html)
 
 
 ### Links:
