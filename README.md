@@ -47,9 +47,10 @@ Para mejorar el rendimiento pueden configurar la Texture Compression de la sigui
     <img src="Images/BuildAndRun.png" width=450 height=120>
   </a>
 </p>
-Imágenes integradas 2
 
 ### 6. Interactive Experience
+For the final project is relevant includ the concepts of Game Design, such as: goal of the game, score, rules, awards and convinving mechanics.
+
 Además, se tendrá muy en cuenta la aplicación del conocimiento adquirido en otras asignaturas de videojuegos y el tiempo invertido por fuera de clase con el propósito de desarrollar una experiencia vivida y convincente siguiendo la historia planteada en el overview del primer corte. Por ejemplo, para enriquecer la experiencia pueden utilizar:
 
 - Non Player Characters (NPC) from [Mixamo](https://www.mixamo.com)
@@ -59,7 +60,6 @@ Además, se tendrá muy en cuenta la aplicación del conocimiento adquirido en o
 - Explosion simulation
 - Sound Effects 
 
-Jugabilidad: Orientar el videojuego para que incluya conceptos de videojuegos como por ejemplo: puntajes, premios, reglas, enemigos definidos, objetivo del juego y mecánicas convicentes para un videojuego.
 
 ### 7.  VR Glasses/Headset and Game Input for the Remote Controller 
 For this course is highly recommended to get some budget VR Glasses and a Bluetooth Remote Control compatible with Android devices. A device recomended is the VR-PARK Portable Wireless Bluetooth 3.0 Remote Controller and a plastic headset, for instance, the budget VR Box.
@@ -72,11 +72,16 @@ In order to map the buttons of the controller with an Unity app running an Andro
 - [Input.GetKeyDown](https://docs.unity3d.com/ScriptReference/Input.GetKeyDown.html)
 - [Combination of Keys Pressed](https://answers.unity.com/questions/49285/how-can-i-get-a-combination-of-keys-pressed.html)
 
-### 8. Agile Development
+### 8. Agile Development (Scrum)
+Acording with the Agile methodologies of development, elaborate a Gantt Diagram on the online tool [TeamGantt](https://www.teamgantt.com/) that takes into account the follwing components:
+- Game Design Document (GDD)
+- Requirements Elicitation
+- Two Scrum Sprints (2nd and 3rd term each) 
+- Final delivery (5 minutes pitch)
+
+Book recommended: [Agile Game Development with Scrum](https://www.amazon.com/Agile-Development-Scrum-Addison-Wesley-Signature/dp/0321618521/ref=sr_1_1?ie=UTF8&qid=1516825327&sr=8-1&keywords=agile+game+development+with+scrum)
 
 Poner el cronograma aunque esté en español
-Online Gantt Diagram [TeamGantt](https://www.teamgantt.com/)
-
 
 ### Links:
 - [Simulator Sickness Questionnaire](http://w3.uqo.ca/cyberpsy/docs/qaires/ssq/SSQ_va.pdf)  
@@ -92,7 +97,9 @@ VERFICAR CON EL LIBRO VR BOOK http://www.tandfonline.com/doi/abs/10.1207/s153271
 - [NextVR](https://www.nextvr.com/)
 
 # Bibliography
-- [The VR Book: Human-Centered Design for Virtual Reality - ACM Books, Jerald (2015) ](https://www.amazon.com/VR-Book-Human-Centered-Virtual-Reality/dp/1970001127/ref=sr_1_1?ie=UTF8&qid=1516756592&sr=8-1&keywords=VR-Book-Human-Centered-Virtual-Reality)
+- [The VR Book: Human-Centered Design for Virtual Reality - ACM Books, Jerald (2015)](https://www.amazon.com/VR-Book-Human-Centered-Virtual-Reality/dp/1970001127/ref=sr_1_1?ie=UTF8&qid=1516756592&sr=8-1&keywords=VR-Book-Human-Centered-Virtual-Reality)
+
+-[Agile Game Development with Scrum, Keith (2010)](https://www.amazon.com/Agile-Development-Scrum-Addison-Wesley-Signature/dp/0321618521/ref=sr_1_1?ie=UTF8&qid=1516825327&sr=8-1&keywords=agile+game+development+with+scrum)
 
 - [Unity Virtual Reality Projects, Linowes (2015)](https://www.amazon.com/dp/178398855X/ref=sspa_dk_detail_0?psc=1&pd_rd_i=178398855X&pd_rd_wg=wDE6o&pd_rd_r=VS6C5Y7P24ZZC3FJ6KR5&pd_rd_w=03w3M)
 
