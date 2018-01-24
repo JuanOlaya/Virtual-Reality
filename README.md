@@ -1,8 +1,8 @@
-# Virtual Reality  (OSVR and Unity)
+# Virtual Reality - Cardboard (OSVR and Unity)
 
 La entrega del tercer corte consiste en implementar un proyecto en Unity 3D 5.6.3f1 funcional y ejecutable, en parejas o individual con los siguientes elementos:
 
-For this course we use [OSVR](https://github.com/OSVR/OSVR-Unity) as VR framework. OSVR is able to run on any Android device that has gyroscope and accelerometer. To check if your phone is compatible with this VR framework download XXX app 
+For this course we use [Unity 3D](https://unity3d.com/) 5.6.3f1 and [OSVR](https://github.com/OSVR/OSVR-Unity) as VR framework. OSVR is able to run on any Android device that has gyroscope and accelerometer. To check if your Android device is compatible, download the [Cardboard App](https://play.google.com/store/apps/details?id=com.google.samples.apps.cardboarddemo&hl=es_419) 
 
 
 ### 1. Reticle VR
@@ -83,8 +83,12 @@ Online Gantt Diagram [TeamGantt](https://www.teamgantt.com/)
 VERFICAR CON EL LIBRO VR BOOK http://www.tandfonline.com/doi/abs/10.1207/s15327108ijap0303_3
 
 - [Google AR and VR Blog](https://blog.google/products/google-vr/)
+- [Google Cardboard](https://vr.google.com/cardboard/)
 
-### VR Apps:
+### Cardboard Apps:
+- [Altspace VR](https://altvr.com/)
+- [Google Earth VR](https://vr.google.com/earth/)
+- [Play Store - Cardboard](https://play.google.com/store/apps/collection/promotion_3001527_cardboard_apps)
 - [NextVR](https://www.nextvr.com/)
 
 # Bibliography
@@ -94,6 +98,8 @@ VERFICAR CON EL LIBRO VR BOOK http://www.tandfonline.com/doi/abs/10.1207/s153271
 
 - [Artificial Reality 2, Krueger (1991)](https://www.amazon.com/Artificial-Reality-2nd-Myron-Krueger/dp/0201522608/ref=sr_1_2?ie=UTF8&qid=1497846274&sr=8-2&keywords=Artificial+Reality)
 
+
+# STUDENT PROJECTS
 
 
 
