@@ -25,15 +25,17 @@ For Virtual Reality in this course we focused in First Person Character Controll
 - Car Controller
 
 ### 3. Software Patterns 
-Utilizar de manera adecuada los scripts VR Interactive Item y VR Eye Raycaster de la OSVR que estamos utilizando:
+OSVR, as VR framework, allows use concepts such Interactive Item and Eye Raycaster. In order, to use these concepts properly is crucial to take into account.
 
-Agregar el script VR Eye Raycaster a un sólo GameObject. Por ejemplo, agregarlo al GO de la cámara u ojos
-Agregar el script VR Interactive Item a cada objeto para utilizar. Implementar las interacciones VR en este script
+Add the VR Eye Raycaster script to only one GameObject. For instance, add it to the camera GameObject.
+Add VR Interactive Item script to each GameObject. 
 
+Activity: Identify the software patterns that have been used by these concepts/scripts.
+Recommended Book: [Game Programming Patterns, Nystrom (2014) - Web version](http://gameprogrammingpatterns.com/contents.html)
 
 ### 4. Class Diagram
 
-Elaborar un diagrama de clases . Es muy parecido al que están elaborando para la Retícula VR
+Elaborate a Class Diagrama 
 
 ### 5. Build and Run
 5.1. Generate an Android app of the developed project in Unity. 
@@ -78,7 +80,7 @@ According to the Agile methodologies of development, elaborate a Gantt chart in 
 - Two Scrum Sprints (2nd and 3rd term each) 
 - Final delivery (5 minutes pitch)
 
-Recommended Book: [Agile Game Development with Scrum](https://www.amazon.com/Agile-Development-Scrum-Addison-Wesley-Signature/dp/0321618521/ref=sr_1_1?ie=UTF8&qid=1516825327&sr=8-1&keywords=agile+game+development+with+scrum)
+Recommended Book: [Agile Game Development with Scrum, Keith (2010)](https://www.amazon.com/Agile-Development-Scrum-Addison-Wesley-Signature/dp/0321618521/ref=sr_1_1?ie=UTF8&qid=1516825327&sr=8-1&keywords=agile+game+development+with+scrum)
 
 ### Links:
 - [Simulator Sickness Questionnaire](http://w3.uqo.ca/cyberpsy/docs/qaires/ssq/SSQ_va.pdf)  
