@@ -43,8 +43,8 @@ Elaborar un diagrama de clases . Es muy parecido al que están elaborando para l
 Para mejorar el rendimiento pueden configurar la Texture Compression de la siguiente manera en Build Settings:
 
 <p align="center">
-  <a href="https://getbootstrap.com/">
-    <img src="Images/BuildAndRun.png" alt="" width=72 height=72>
+  <a>
+    <img src="Images/BuildAndRun.png">
   </a>
 </p>
 Imágenes integradas 2
