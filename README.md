@@ -82,7 +82,7 @@ http://www.tandfonline.com/doi/abs/10.1207/s15327108ijap0303_3
 - [NextVR](https://www.nextvr.com/)
 
 # Bibliography
-- [The VR Book: Human-Centered Design for Virtual Reality - Acm Books, Jerald (2015) ](https://www.amazon.com/VR-Book-Human-Centered-Virtual-Reality/dp/1970001127/ref=sr_1_1?ie=UTF8&qid=1516756592&sr=8-1&keywords=VR-Book-Human-Centered-Virtual-Reality)
+- [The VR Book: Human-Centered Design for Virtual Reality - ACM Books, Jerald (2015) ](https://www.amazon.com/VR-Book-Human-Centered-Virtual-Reality/dp/1970001127/ref=sr_1_1?ie=UTF8&qid=1516756592&sr=8-1&keywords=VR-Book-Human-Centered-Virtual-Reality)
 
 - [Unity Virtual Reality Projects, Linowes (2015)](https://www.amazon.com/dp/178398855X/ref=sspa_dk_detail_0?psc=1&pd_rd_i=178398855X&pd_rd_wg=wDE6o&pd_rd_r=VS6C5Y7P24ZZC3FJ6KR5&pd_rd_w=03w3M)
 
