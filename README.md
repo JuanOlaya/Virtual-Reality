@@ -78,7 +78,7 @@ http://www.tandfonline.com/doi/abs/10.1207/s15327108ijap0303_3
 
 - [Google AR and VR Blog](https://blog.google/products/google-vr/)
 
-### VR apps:
+### VR Apps:
 - [NextVR](https://www.nextvr.com/)
 
 # Bibliography
