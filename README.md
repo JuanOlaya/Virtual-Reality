@@ -1,15 +1,13 @@
 # Virtual Reality - Cardboard  (OSVR and Unity)
 
-La entrega del tercer corte consiste en implementar un proyecto en Unity 3D 5.6.3f1 funcional y ejecutable, en parejas o individual con los siguientes elementos:
-
-For this course we use [Unity 3D](https://unity3d.com/) 5.6.3f1 and [OSVR](https://github.com/OSVR/OSVR-Unity) as VR framework. OSVR is able to run on any Android device that has gyroscope and accelerometer. To check if your Android device is compatible, download the [Cardboard App](https://play.google.com/store/apps/details?id=com.google.samples.apps.cardboarddemo&hl=es_419) 
+For this course we use [Unity 3D](https://unity3d.com/) 5.6.3f1 and [OSVR](https://github.com/OSVR/OSVR-Unity) as VR framework. OSVR is able to run on any Android device provided of a gyroscope and accelerometer. To check if your Android device is compatible, download the [Cardboard App](https://play.google.com/store/apps/details?id=com.google.samples.apps.cardboarddemo&hl=es_419). The following are the components required for the course.
 
 
 ### 1. Reticle VR
 
 FOTO
 
-Utilizando la retícula VR implementar mínimo (3) tres interacciones diferentes utilizando la retícula VR vista en clase, es decir, las (2) dos interacciones previas del segundo corte y mínimo (1) una interacción nueva. Por ejemplo:
+The Reticle VR or Gaze VR is useful to interact with GameObjects, as follows:
 - Rotate GameObjects
 - Change Color of GameObjects
 - Destroy GameObjects
@@ -18,28 +16,28 @@ Utilizando la retícula VR implementar mínimo (3) tres interacciones diferentes
 - Impact Effect (Explosion Particles)
 
 ### 2. Movement in VR
-
-Implementar al menos un método de navegación:
-- First Person Character Controller
+For Virtual Reality in this course we focused in First Person Character Controller as movement for the most of the projects. This movement is able to manage with a Bluetooth Controller as is explained below. As well is possible to map the follwing movements:
 - Third Person Character Controller
 - Aircraft/Drone Controller
 - Motorcycle Controller
 - Car Controller
 
 ### 3. Software Patterns 
-Utilizar de manera adecuada los scripts VR Interactive Item y VR Eye Raycaster de la OpenSource VR que estamos utilizando:
-Agregar el script VR Interactive Item a cada objeto para utilizar. Implementar las interacciones VR en este script
+Utilizar de manera adecuada los scripts VR Interactive Item y VR Eye Raycaster de la OSVR que estamos utilizando:
+
 Agregar el script VR Eye Raycaster a un sólo GameObject. Por ejemplo, agregarlo al GO de la cámara u ojos
+Agregar el script VR Interactive Item a cada objeto para utilizar. Implementar las interacciones VR en este script
+
 
 ### 4. Class Diagram
 
 Elaborar un diagrama de clases . Es muy parecido al que están elaborando para la Retícula VR
 
 ### 5. Build and Run
-5.1. Generar una aplicación del proyecto desarrollado en Unity que sea ejecutable en Android. 
-5.2. Ejecutar la aplicación en un dispositivo Android. 
+5.1. Generate an Android app of the developed project in Unity. 
+5.2. Run the app in an Android device. 
 
-Para mejorar el rendimiento pueden configurar la Texture Compression de la siguiente manera en Build Settings:
+In order to enhance the performance of the App, setup the Texture Compression in the Build Settings, as is shown in the following image:
 
 <p align="center">
   <a>
@@ -48,9 +46,9 @@ Para mejorar el rendimiento pueden configurar la Texture Compression de la sigui
 </p>
 
 ### 6. Interactive Experience
-For the final project is relevant includ the concepts of Game Design, such as: goal of the game, score, rules, awards and convinving mechanics.
+For the final project is relevant includ the concepts of Game Design, such as: goal of the game, score, rules, awards, vivid interactive narrative and convinving mechanics.
 
-Además, se tendrá muy en cuenta la aplicación del conocimiento adquirido en otras asignaturas de videojuegos y el tiempo invertido por fuera de clase con el propósito de desarrollar una experiencia vivida y convincente siguiendo la historia planteada en el overview del primer corte. Por ejemplo, para enriquecer la experiencia pueden utilizar:
+Moreover, is important to enrich the experience with:
 
 - Non Player Characters (NPC) from [Mixamo](https://www.mixamo.com)
 - Waypoints para el caso de mover animales o automóviles
@@ -72,15 +70,13 @@ In order to map the buttons of the controller with an Unity app running an Andro
 - [Combination of Keys Pressed](https://answers.unity.com/questions/49285/how-can-i-get-a-combination-of-keys-pressed.html)
 
 ### 8. Agile Development (Scrum)
-Acording with the Agile methodologies of development, elaborate a Gantt Diagram on the online tool [TeamGantt](https://www.teamgantt.com/) that takes into account the follwing components:
+According to the Agile methodologies of development, elaborate a Gantt chart in the online tool [TeamGantt](https://www.teamgantt.com/) that takes into account the follwing components:
 - Game Design Document (GDD)
 - Requirements Elicitation
 - Two Scrum Sprints (2nd and 3rd term each) 
 - Final delivery (5 minutes pitch)
 
 Recommended Book: [Agile Game Development with Scrum](https://www.amazon.com/Agile-Development-Scrum-Addison-Wesley-Signature/dp/0321618521/ref=sr_1_1?ie=UTF8&qid=1516825327&sr=8-1&keywords=agile+game+development+with+scrum)
-
-Poner el cronograma aunque esté en español
 
 ### Links:
 - [Simulator Sickness Questionnaire](http://w3.uqo.ca/cyberpsy/docs/qaires/ssq/SSQ_va.pdf)  
@@ -95,28 +91,25 @@ VERFICAR CON EL LIBRO VR BOOK http://www.tandfonline.com/doi/abs/10.1207/s153271
 - [Play Store - Cardboard](https://play.google.com/store/apps/collection/promotion_3001527_cardboard_apps)
 - [NextVR](https://www.nextvr.com/)
 
-# Bibliography
+### Bibliography
 - [The VR Book: Human-Centered Design for Virtual Reality - ACM Books, Jerald (2015)](https://www.amazon.com/VR-Book-Human-Centered-Virtual-Reality/dp/1970001127/ref=sr_1_1?ie=UTF8&qid=1516756592&sr=8-1&keywords=VR-Book-Human-Centered-Virtual-Reality)
 
 -[Agile Game Development with Scrum, Keith (2010)](https://www.amazon.com/Agile-Development-Scrum-Addison-Wesley-Signature/dp/0321618521/ref=sr_1_1?ie=UTF8&qid=1516825327&sr=8-1&keywords=agile+game+development+with+scrum)
 
 - [Unity Virtual Reality Projects, Linowes (2015)](https://www.amazon.com/dp/178398855X/ref=sspa_dk_detail_0?psc=1&pd_rd_i=178398855X&pd_rd_wg=wDE6o&pd_rd_r=VS6C5Y7P24ZZC3FJ6KR5&pd_rd_w=03w3M)
 
+- [Game Programming Patterns, Nystrom (2014) - Web version](http://gameprogrammingpatterns.com/contents.html)
+
 - [Artificial Reality 2, Krueger (1991)](https://www.amazon.com/Artificial-Reality-2nd-Myron-Krueger/dp/0201522608/ref=sr_1_2?ie=UTF8&qid=1497846274&sr=8-2&keywords=Artificial+Reality)
 
 
 # STUDENT PROJECTS
-
 
 <p align="center">
   <a href="https://youtu.be/51uu72lHyX4">
     <img src="Images/YoutubeVideo.png" width=600 height=320>
   </a>
 </p>
-
-
-
-
 
 
 
