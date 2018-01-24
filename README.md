@@ -1,4 +1,4 @@
-# Virtual Reality - Cardboard (OSVR and Unity)
+# Virtual Reality - Cardboard  (OSVR and Unity)
 
 La entrega del tercer corte consiste en implementar un proyecto en Unity 3D 5.6.3f1 funcional y ejecutable, en parejas o individual con los siguientes elementos:
 
@@ -20,8 +20,7 @@ Utilizando la retícula VR implementar mínimo (3) tres interacciones diferentes
 ### 2. Movement in VR
 
 Implementar al menos un método de navegación:
-- First Person Character Controller 
-  - Jump
+- First Person Character Controller
 - Third Person Character Controller
 - Aircraft/Drone Controller
 - Motorcycle Controller
