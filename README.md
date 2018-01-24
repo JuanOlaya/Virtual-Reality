@@ -75,7 +75,7 @@ Online Gantt Diagram [TeamGantt](https://www.teamgantt.com/)
 
 ### Links:
 - [Simulator Sickness Questionnaire](http://w3.uqo.ca/cyberpsy/docs/qaires/ssq/SSQ_va.pdf)  
-VERFICAR CON EL LIBRO VR BOOKhttp://www.tandfonline.com/doi/abs/10.1207/s15327108ijap0303_3
+VERFICAR CON EL LIBRO VR BOOK http://www.tandfonline.com/doi/abs/10.1207/s15327108ijap0303_3
 
 - [Google AR and VR Blog](https://blog.google/products/google-vr/)
 
