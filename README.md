@@ -110,7 +110,7 @@ VERFICAR CON EL LIBRO VR BOOK http://www.tandfonline.com/doi/abs/10.1207/s153271
 
 <p align="center">
   <a>
-    <img src="Images/YoutubeVideo.png" width=600 height=250>
+    <img src="Images/YoutubeVideo.png" width=600 height=320>
   </a>
 </p>
 
