@@ -44,7 +44,7 @@ Para mejorar el rendimiento pueden configurar la Texture Compression de la sigui
 
 <p align="center">
   <a>
-    <img src="Images/BuildAndRun.png">
+    <img src="Images/BuildAndRun.png" width=600 height=170>
   </a>
 </p>
 Imágenes integradas 2
