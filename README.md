@@ -7,7 +7,6 @@ For this course we use [OSVR as VR framework](https://github.com/OSVR/OSVR-Unity
 
 ### 1. Reticle VR
 Utilizando la retícula VR implementar mínimo (3) tres interacciones diferentes utilizando la retícula VR vista en clase, es decir, las (2) dos interacciones previas del segundo corte y mínimo (1) una interacción nueva. Por ejemplo:
-
 -Rotate GameObjects
 -Change Color of GameObjects
 -Destroy GameObjects
@@ -20,7 +19,6 @@ Utilizando la retícula VR implementar mínimo (3) tres interacciones diferentes
 Implementar al menos un método de navegación:
 -First Person Character Controller 
   -Jump
-  -
 -Third Person Character Controller
 -Aircraft/Drone Controller
 -Motorcycle Controller
