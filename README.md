@@ -46,7 +46,7 @@ Además, se tendrá muy en cuenta la aplicación del conocimiento adquirido en o
 
 - Non Player Characters (NPC) from [Mixamo](https://www.mixamo.com)
 - Waypoints para el caso de mover animales o automóviles
-- Textures e.g. [Textures.com](https://www.textures.com/)
+- Textures
 - Physics simulation
 - Explosion simulation
 - Sound Effects 
@@ -64,6 +64,9 @@ In order to map the buttons of the controller with an Unity app running an Andro
 - [Input.GetKeyDown](https://docs.unity3d.com/ScriptReference/Input.GetKeyDown.html)
 - [Combination of Keys Pressed](https://answers.unity.com/questions/49285/how-can-i-get-a-combination-of-keys-pressed.html)
 
+### 8. Agile Development
+
+
 
 ### Links:
 - [Simulator Sickness Questionnaire](http://w3.uqo.ca/cyberpsy/docs/qaires/ssq/SSQ_va.pdf)
@@ -71,6 +74,9 @@ In order to map the buttons of the controller with an Unity app running an Andro
 
 ### VR apps:
 - [NextVR](https://www.nextvr.com/)
+
+# Bibliography
+- [The VR Book: Human-Centered Design for Virtual Reality (Acm Books)](https://www.amazon.com/VR-Book-Human-Centered-Virtual-Reality/dp/1970001127/ref=sr_1_1?ie=UTF8&qid=1516756592&sr=8-1&keywords=VR-Book-Human-Centered-Virtual-Reality)
 
 
 
