@@ -6,6 +6,9 @@ For this course we use [OSVR](https://github.com/OSVR/OSVR-Unity) as VR framewor
 
 
 ### 1. Reticle VR
+
+FOTO
+
 Utilizando la retícula VR implementar mínimo (3) tres interacciones diferentes utilizando la retícula VR vista en clase, es decir, las (2) dos interacciones previas del segundo corte y mínimo (1) una interacción nueva. Por ejemplo:
 - Rotate GameObjects
 - Change Color of GameObjects
@@ -68,8 +71,11 @@ In order to map the buttons of the controller with an Unity app running an Andro
 
 
 
+
 ### Links:
-- [Simulator Sickness Questionnaire](http://w3.uqo.ca/cyberpsy/docs/qaires/ssq/SSQ_va.pdf)
+- [Simulator Sickness Questionnaire](http://w3.uqo.ca/cyberpsy/docs/qaires/ssq/SSQ_va.pdf)  
+http://www.tandfonline.com/doi/abs/10.1207/s15327108ijap0303_3
+
 - [Google AR and VR Blog](https://blog.google/products/google-vr/)
 
 ### VR apps:
