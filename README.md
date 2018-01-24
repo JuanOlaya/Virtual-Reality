@@ -66,7 +66,7 @@ In order to map the buttons of the controller with an Unity app running an Andro
 
 
 ### Links:
-- [Google AR and VR](https://blog.google/products/google-vr/)
+- [Google AR and VR Blog](https://blog.google/products/google-vr/)
 
 ### VR apps:
 - [NextVR](https://www.nextvr.com/)
