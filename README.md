@@ -35,7 +35,7 @@ Recommended Book: [Game Programming Patterns, Nystrom (2014) - Web version](http
 
 ### 4. Class Diagram
 
-Elaborate a Class Diagrama 
+Elaborate a Class Diagrama. Recommended Book: [Object-Oriented Software Engineering: Practical Software Development Using UML and Java](https://www.amazon.com/Object-Oriented-Software-Engineering-Practical-Development/dp/0077109082)
 
 ### 5. Build and Run
 5.1. Generate an Android app of the developed project in Unity. 
