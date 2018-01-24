@@ -91,3 +91,22 @@ VERFICAR CON EL LIBRO VR BOOK http://www.tandfonline.com/doi/abs/10.1207/s153271
 
 
 
+
+
+
+
+++++++++++++++++++++++++INCLUIR EN LA PRESENTACIÓN
+A propósito del anuncio de lanzamiento de las Oculus Go y las HTC Vive Focus, extiendo la información que vimos al iniciar el curso de VR sobre los grados de libertad (3 o 6) en el hardware VR. Importante tener claro la diferencia entre 3DoF y 6DoF
+
+Oculus Go, por fin unas gafas de realidad virtual que no requieren de un teléfono o cables (3DoF)
+https://www.xataka.com/accesorios/oculus-go-caracteristicas-precio-ficha-tecnica
+
+HTC hace oficial las Vive Focus, sus nuevas gafas de realidad virtual sin cables ni móviles (6DoF)
+https://www.xataka.com/realidad-virtual-aumentada/htc-hace-oficial-las-vive-focus-sus-nuevas-gafas-de-realidad-virtual-sin-cables-ni-moviles
+
+3DOF Vs. 6 DOF 
+https://www.youtube.com/watch?v=Hu8si8Vgrmg&list=PLBD3ein1xee0HvbbWZxPmt76fISSpAERp&index=17
+
+Degrees of Freedom
+http://www.leadingones.com/articles/intro-to-vr-4.html
+
