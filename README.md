@@ -111,7 +111,7 @@ VERFICAR CON EL LIBRO VR BOOK http://www.tandfonline.com/doi/abs/10.1207/s153271
 The students developed 3 Serious Games and 4 Entertainment Games, as can be seen in the following video:
 
 <p align="center">
-  <a href="https://youtu.be/51uu72lHyX4">
+  <a href="https://youtu.be/51uu72lHyX4" target="_blank">
     <img src="Images/YoutubeVideo.png" width=600 height=320>
   </a>
 </p>
