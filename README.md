@@ -124,5 +124,6 @@ The students designed and developed (3) Serious Games and (4) Entertainment Game
 - [Vimeo 360](https://join.vimeo.com/360/)
 - [YouTube VR](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.vr&hl=es)
 - [Google Spotlight Stories](https://play.google.com/store/apps/details?id=com.google.android.spotlightstories&hl=es&rdid=com.google.android.spotlightstories)
-- [Cardboard Camera](https://play.google.com/store/apps/details?id=com.google.vr.cyclops)
+- [Google Cardboard Camera](https://play.google.com/store/apps/details?id=com.google.vr.cyclops)
+- [Google Cardboard Design Lab](https://play.google.com/store/apps/details?id=com.google.vr.cardboard.apps.designlab&hl=es)
 
