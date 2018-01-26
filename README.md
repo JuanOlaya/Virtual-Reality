@@ -109,7 +109,7 @@ The students designed and developed (3) Serious Games and (4) Entertainment Game
 - [Google AR and VR Blog](https://blog.google/products/google-vr/)
 - [Google Cardboard - Dev](https://developers.google.com/vr/) 
 
-## EXAMPLE VR APPS
+## Example VR Apps
 - [Altspace VR](https://altvr.com/)
 - [Google Earth VR](https://vr.google.com/earth/)
 - [Play Store - Cardboard](https://play.google.com/store/apps/collection/promotion_3001011_cardboard_featured_apps?hl=es_419)
