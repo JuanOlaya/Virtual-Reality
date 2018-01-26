@@ -36,7 +36,7 @@ Recommended Book: [Game Programming Patterns, Nystrom (2014) - Web version](http
 
 ### 4. Class Diagram
 
-Assignment: Elaborate a Class (Script) Diagram of the Unity project that shows: the relationship among scripts, their attributes and methods. Recommended Book: [Object-Oriented Software Engineering: Practical Software Development Using UML and Java](https://www.amazon.com/Object-Oriented-Software-Engineering-Practical-Development/dp/0077109082)
+Assignment: Elaborate a Class (Script) Diagram of the Unity project that shows: the relationship among scripts, their attributes, their methods and software patterns. Recommended Book: [Object-Oriented Software Engineering: Practical Software Development Using UML and Java](https://www.amazon.com/Object-Oriented-Software-Engineering-Practical-Development/dp/0077109082)
 
 ### 5. Build and Run
 Assignment: Install [Android Studio](https://developer.android.com/studio/index.html) in your computer (PC or Mac) and using an Android device compatible with Cardboard, generate an Android app of the Unity VR project and then run the VR app in an Android device. For this assignment is highly recommended use a Cardboard.
