@@ -102,7 +102,7 @@ Recommended Book: [Agile Game Development with Scrum, Keith (2010)](https://www.
 
 
 # STUDENT PROJECTS
-The students developed (3) Serious Games and (4) Entertainment Games, as can be seen in the following video:
+The students designed and developed (3) Serious Games and (4) Entertainment Games in the course Virtual Reality taught in the second semester of the year 2017. The video below shows these projects:
 
 <p align="center">
   <a href="https://youtu.be/51uu72lHyX4" target="_blank">
