@@ -82,6 +82,8 @@ Recommended Book: [Agile Game Development with Scrum, Keith (2010)](https://www.
 
 ### Links:
 - [Simulator Sickness Questionnaire](http://w3.uqo.ca/cyberpsy/docs/qaires/ssq/SSQ_va.pdf)
+- [VR Best Practices - Oculus Dev](https://developer.oculus.com/design/latest/concepts/book-bp/)
+- [Future of mixed reality - Unity Blog](https://blogs.unity3d.com/2017/09/05/looking-to-the-future-of-mixed-reality-part-i/)
 - [3 DOF Vs. 6 DOF](https://www.youtube.com/watch?v=Hu8si8Vgrmg&list=PLBD3ein1xee0HvbbWZxPmt76fISSpAERp&index=17)
 - [Degrees of Freedom](http://www.leadingones.com/articles/intro-to-vr-4.html)
 - [Google AR and VR Blog](https://blog.google/products/google-vr/)
