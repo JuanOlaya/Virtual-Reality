@@ -83,9 +83,7 @@ According to the Agile methodologies of development, elaborate a Gantt chart in 
 Recommended Book: [Agile Game Development with Scrum, Keith (2010)](https://www.amazon.com/Agile-Development-Scrum-Addison-Wesley-Signature/dp/0321618521/ref=sr_1_1?ie=UTF8&qid=1516825327&sr=8-1&keywords=agile+game+development+with+scrum)
 
 ### Links:
-- [Simulator Sickness Questionnaire](http://w3.uqo.ca/cyberpsy/docs/qaires/ssq/SSQ_va.pdf)  
-VERFICAR CON EL LIBRO VR BOOK http://www.tandfonline.com/doi/abs/10.1207/s15327108ijap0303_3
-
+- [Simulator Sickness Questionnaire](http://w3.uqo.ca/cyberpsy/docs/qaires/ssq/SSQ_va.pdf)
 - [Google AR and VR Blog](https://blog.google/products/google-vr/)
 - [Google Cardboard](https://vr.google.com/cardboard/)
 
