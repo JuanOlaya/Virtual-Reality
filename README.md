@@ -80,7 +80,7 @@ According to the Agile methodologies of development, elaborate a Gantt chart in 
 
 Recommended Book: [Agile Game Development with Scrum, Keith (2010)](https://www.amazon.com/Agile-Development-Scrum-Addison-Wesley-Signature/dp/0321618521/ref=sr_1_1?ie=UTF8&qid=1516825327&sr=8-1&keywords=agile+game+development+with+scrum)
 
-### Links:
+### VR Links:
 - [VR Best Practices - Oculus Dev](https://developer.oculus.com/design/latest/concepts/book-bp/)
 - [Simulator Sickness Questionnaire](http://w3.uqo.ca/cyberpsy/docs/qaires/ssq/SSQ_va.pdf)
 - [Future of mixed reality - Unity Blog](https://blogs.unity3d.com/2017/09/05/looking-to-the-future-of-mixed-reality-part-i/)
@@ -89,7 +89,7 @@ Recommended Book: [Agile Game Development with Scrum, Keith (2010)](https://www.
 - [Google AR and VR Blog](https://blog.google/products/google-vr/)
 - [Google Cardboard](https://vr.google.com/cardboard/)
 
-### Bibliography
+### VR Bibliography
 - [The VR Book: Human-Centered Design for Virtual Reality - ACM Books, Jerald (2015)](https://www.amazon.com/VR-Book-Human-Centered-Virtual-Reality/dp/1970001127/ref=sr_1_1?ie=UTF8&qid=1516756592&sr=8-1&keywords=VR-Book-Human-Centered-Virtual-Reality)
 - [Agile Game Development with Scrum, Keith (2010)](https://www.amazon.com/Agile-Development-Scrum-Addison-Wesley-Signature/dp/0321618521/ref=sr_1_1?ie=UTF8&qid=1516825327&sr=8-1&keywords=agile+game+development+with+scrum)
 - [Unity Virtual Reality Projects, Linowes (2015)](https://www.amazon.com/dp/178398855X/ref=sspa_dk_detail_0?psc=1&pd_rd_i=178398855X&pd_rd_wg=wDE6o&pd_rd_r=VS6C5Y7P24ZZC3FJ6KR5&pd_rd_w=03w3M)
