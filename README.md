@@ -82,12 +82,13 @@ Recommended Book: [Agile Game Development with Scrum, Keith (2010)](https://www.
 
 ### VR Links:
 - [VR Best Practices - Oculus Dev](https://developer.oculus.com/design/latest/concepts/book-bp/)
+- [Designing for Google Cardboard - Google Dev](https://designguidelines.withgoogle.com/cardboard/designing-for-google-cardboard/a-new-dimension.html)
 - [Simulator Sickness Questionnaire](http://w3.uqo.ca/cyberpsy/docs/qaires/ssq/SSQ_va.pdf)
 - [Future of mixed reality - Unity Blog](https://blogs.unity3d.com/2017/09/05/looking-to-the-future-of-mixed-reality-part-i/)
 - [3 DOF Vs. 6 DOF](https://www.youtube.com/watch?v=Hu8si8Vgrmg&list=PLBD3ein1xee0HvbbWZxPmt76fISSpAERp&index=17)
 - [Degrees of Freedom](http://www.leadingones.com/articles/intro-to-vr-4.html)
 - [Google AR and VR Blog](https://blog.google/products/google-vr/)
-- [Google Cardboard](https://vr.google.com/cardboard/)
+- [Google Cardboard - Dev](https://developers.google.com/vr/) 
 
 ### VR Bibliography
 - [The VR Book: Human-Centered Design for Virtual Reality - ACM Books, Jerald (2015)](https://www.amazon.com/VR-Book-Human-Centered-Virtual-Reality/dp/1970001127/ref=sr_1_1?ie=UTF8&qid=1516756592&sr=8-1&keywords=VR-Book-Human-Centered-Virtual-Reality)
