@@ -36,11 +36,10 @@ Recommended Book: [Game Programming Patterns, Nystrom (2014) - Web version](http
 
 ### 4. Class Diagram
 
-Assignment: Elaborate a Class Diagrama. Recommended Book: [Object-Oriented Software Engineering: Practical Software Development Using UML and Java](https://www.amazon.com/Object-Oriented-Software-Engineering-Practical-Development/dp/0077109082)
+Assignment: Elaborate a Class (Script) Diagram of the Unity project that shows: the relationship among scripts, their attributes and methods. Recommended Book: [Object-Oriented Software Engineering: Practical Software Development Using UML and Java](https://www.amazon.com/Object-Oriented-Software-Engineering-Practical-Development/dp/0077109082)
 
 ### 5. Build and Run
- Generate an Android app of the developed project in Unity. 
-5.2. Run the app in an Android device. 
+Assignment: Install [Android Studio](https://developer.android.com/studio/index.html) in your computer and using an Android device compatible with Cardboard, generate an Android app of the Unity VR project and then run the VR app in an Android device. For this assignment is highly recommended use a Cardboard.
 
 In order to enhance the performance of the App, setup the Texture Compression in the Build Settings, as is shown in the following image:
 
