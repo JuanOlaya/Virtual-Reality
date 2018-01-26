@@ -88,8 +88,11 @@ Recommended Book: [Agile Game Development with Scrum, Keith (2010)](https://www.
 
 ### Links:
 - [Simulator Sickness Questionnaire](http://w3.uqo.ca/cyberpsy/docs/qaires/ssq/SSQ_va.pdf)
+- [3 DOF Vs. 6 DOF](https://www.youtube.com/watch?v=Hu8si8Vgrmg&list=PLBD3ein1xee0HvbbWZxPmt76fISSpAERp&index=17)
+- [Degrees of Freedom](http://www.leadingones.com/articles/intro-to-vr-4.html)
 - [Google AR and VR Blog](https://blog.google/products/google-vr/)
 - [Google Cardboard](https://vr.google.com/cardboard/)
+
 
 ### Cardboard Apps:
 - [Altspace VR](https://altvr.com/)
@@ -110,7 +113,7 @@ Recommended Book: [Agile Game Development with Scrum, Keith (2010)](https://www.
 
 
 # STUDENT PROJECTS
-The students developed 3 Serious Games and 4 Entertainment Games, as can be seen in the following video:
+The students developed (3) Serious Games and (4) Entertainment Games, as can be seen in the following video:
 
 <p align="center">
   <a href="https://youtu.be/51uu72lHyX4" target="_blank">
@@ -118,32 +121,5 @@ The students developed 3 Serious Games and 4 Entertainment Games, as can be seen
   </a>
 </p>
 
-Serious Games:
-- Inesperadamente
-- Source Separation
-- Profesor Sagan
 
-Entertainment Games:
-- Space Discovery
-- Anamorphic Room
-- ApocaZomWorld
-- FPS
-
-
-
-
-++++++++++++++++++++++++INCLUIR EN LA PRESENTACIÓN
-A propósito del anuncio de lanzamiento de las Oculus Go y las HTC Vive Focus, extiendo la información que vimos al iniciar el curso de VR sobre los grados de libertad (3 o 6) en el hardware VR. Importante tener claro la diferencia entre 3DoF y 6DoF
-
-Oculus Go, por fin unas gafas de realidad virtual que no requieren de un teléfono o cables (3DoF)
-https://www.xataka.com/accesorios/oculus-go-caracteristicas-precio-ficha-tecnica
-
-HTC hace oficial las Vive Focus, sus nuevas gafas de realidad virtual sin cables ni móviles (6DoF)
-https://www.xataka.com/realidad-virtual-aumentada/htc-hace-oficial-las-vive-focus-sus-nuevas-gafas-de-realidad-virtual-sin-cables-ni-moviles
-
-3DOF Vs. 6 DOF 
-https://www.youtube.com/watch?v=Hu8si8Vgrmg&list=PLBD3ein1xee0HvbbWZxPmt76fISSpAERp&index=17
-
-Degrees of Freedom
-http://www.leadingones.com/articles/intro-to-vr-4.html
 
