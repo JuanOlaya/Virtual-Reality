@@ -94,6 +94,12 @@ Recommended Book: [Agile Game Development with Scrum, Keith (2010)](https://www.
 - [Google Earth VR](https://vr.google.com/earth/)
 - [Play Store - Cardboard](https://play.google.com/store/apps/collection/promotion_3001527_cardboard_apps)
 - [NextVR](https://www.nextvr.com/)
+- [Discovery VR](https://play.google.com/store/apps/details?id=com.discovery.DiscoveryVR)
+- [Apollo 15 Moon Landing VR](https://play.google.com/store/apps/details?id=com.ThomasKole.Apollo15VR)
+- [Expeditions](https://play.google.com/store/apps/details?id=com.google.vr.expeditions)
+- [Titans of Space VR](https://play.google.com/store/apps/details?id=com.drashvr.titansofspacecb)
+- [Owlchemy Labs](https://owlchemylabs.com/)
+- [Cardboard Camera](https://play.google.com/store/apps/details?id=com.google.vr.cyclops)
 
 ### Bibliography
 - [The VR Book: Human-Centered Design for Virtual Reality - ACM Books, Jerald (2015)](https://www.amazon.com/VR-Book-Human-Centered-Virtual-Reality/dp/1970001127/ref=sr_1_1?ie=UTF8&qid=1516756592&sr=8-1&keywords=VR-Book-Human-Centered-Virtual-Reality)
