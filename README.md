@@ -94,7 +94,7 @@ Recommended Book: [Agile Game Development with Scrum, Keith (2010)](https://www.
 - [Google Cardboard](https://vr.google.com/cardboard/)
 
 
-### Cardboard Apps:
+### VR Apps:
 - [Altspace VR](https://altvr.com/)
 - [Google Earth VR](https://vr.google.com/earth/)
 - [Play Store - Cardboard](https://play.google.com/store/apps/collection/promotion_3001527_cardboard_apps)
@@ -117,7 +117,7 @@ The students developed (3) Serious Games and (4) Entertainment Games, as can be 
 
 <p align="center">
   <a href="https://youtu.be/51uu72lHyX4" target="_blank">
-    <img src="Images/YoutubeVideo.png" width=600 height=320>
+    <img src="Images/YoutubeVideo.png" width=600 height=340>
   </a>
 </p>
 
