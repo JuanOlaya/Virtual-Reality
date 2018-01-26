@@ -29,20 +29,17 @@ For Virtual Reality in this course we focused in First Person Character Controll
 - Car Controller
 
 ### 3. Software Patterns 
-OSVR, as VR framework, allows use concepts such Interactive Item and Eye Raycaster. In order, to use these concepts properly is crucial to take into account.
+OSVR, as VR framework, allows use concepts such Interactive Item and Eye Raycaster. In order, to use these concepts properly is crucial to add the VR Eye Raycaster script to only one GameObject. For instance, add it to the camera GameObject. Also, add VR Interactive Item script to each GameObject. 
 
-Add the VR Eye Raycaster script to only one GameObject. For instance, add it to the camera GameObject.
-Add VR Interactive Item script to each GameObject. 
-
-Activity: Identify the software patterns that have been used by these concepts/scripts.
+Assignment: Identify the software patterns that have been used by these concepts/scripts.
 Recommended Book: [Game Programming Patterns, Nystrom (2014) - Web version](http://gameprogrammingpatterns.com/contents.html)
 
 ### 4. Class Diagram
 
-Elaborate a Class Diagrama. Recommended Book: [Object-Oriented Software Engineering: Practical Software Development Using UML and Java](https://www.amazon.com/Object-Oriented-Software-Engineering-Practical-Development/dp/0077109082)
+Assignment: Elaborate a Class Diagrama. Recommended Book: [Object-Oriented Software Engineering: Practical Software Development Using UML and Java](https://www.amazon.com/Object-Oriented-Software-Engineering-Practical-Development/dp/0077109082)
 
 ### 5. Build and Run
-5.1. Generate an Android app of the developed project in Unity. 
+ Generate an Android app of the developed project in Unity. 
 5.2. Run the app in an Android device. 
 
 In order to enhance the performance of the App, setup the Texture Compression in the Build Settings, as is shown in the following image:
@@ -54,9 +51,7 @@ In order to enhance the performance of the App, setup the Texture Compression in
 </p>
 
 ### 6. Interactive Experience
-For the video game is relevant includ the concepts of Game Design, such as: goal of the game, score, rules, awards, vivid interactive narrative and convinving mechanics.
-
-Moreover, is important to enrich the experience of the video game with:
+For the video game is relevant includ the concepts of Game Design, such as: goal of the game, score, rules, awards, vivid interactive narrative and convinving mechanics. Moreover, is important to enrich the experience of the video game with:
 
 - Non Player Characters (NPC) from [Mixamo](https://www.mixamo.com)
 - Waypoints para el caso de mover animales o automóviles
@@ -92,7 +87,6 @@ Recommended Book: [Agile Game Development with Scrum, Keith (2010)](https://www.
 - [Degrees of Freedom](http://www.leadingones.com/articles/intro-to-vr-4.html)
 - [Google AR and VR Blog](https://blog.google/products/google-vr/)
 - [Google Cardboard](https://vr.google.com/cardboard/)
-
 
 ### VR Apps:
 - [Altspace VR](https://altvr.com/)
