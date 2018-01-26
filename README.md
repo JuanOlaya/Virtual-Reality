@@ -21,7 +21,7 @@ The Reticle VR or Gaze VR is useful to interact with GameObjects, as follows:
 - Add Force to GameObjects (Normal Vector)
 - Impact Effect (Explosion Particles)
 
-### 2. Movement in VR
+### 2. Moving in VR
 For Virtual Reality in this course we focused in First Person Character Controller as movement for the most of the projects. This movement is able to manage with a Bluetooth Controller as is explained below. As well is possible to map the follwing movements:
 - Third Person Character Controller
 - Aircraft/Drone Controller
