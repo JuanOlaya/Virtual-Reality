@@ -1,4 +1,4 @@
-# Virtual Reality - Cardboard  (OSVR and Unity)
+# VIRTUAL REALITY - CARDBOARD  (OSVR and Unity)
 
 This repository is associated with the subject Virtual Reality taught in the university School of Arts and Letters by Juan Olaya in the semester 2017.2. 
 
@@ -107,7 +107,7 @@ The students designed and developed (3) Serious Games and (4) Entertainment Game
   </a>
 </p>
 
-### VR Apps:
+# VR APPS:
 - [Altspace VR](https://altvr.com/)
 - [Google Earth VR](https://vr.google.com/earth/)
 - [Play Store - Cardboard](https://play.google.com/store/apps/collection/promotion_3001527_cardboard_apps)
