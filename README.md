@@ -110,7 +110,7 @@ The students designed and developed (3) Serious Games and (4) Entertainment Game
 ## EXAMPLE VR APPS
 - [Altspace VR](https://altvr.com/)
 - [Google Earth VR](https://vr.google.com/earth/)
-- [Play Store - Cardboard](https://play.google.com/store/apps/collection/promotion_3001527_cardboard_apps)
+- [Play Store - Cardboard](https://play.google.com/store/apps/collection/promotion_3001011_cardboard_featured_apps?hl=es_419)
 - [NextVR](https://www.nextvr.com/)
 - [Discovery VR](https://play.google.com/store/apps/details?id=com.discovery.DiscoveryVR)
 - [Apollo 15 Moon Landing VR](https://play.google.com/store/apps/details?id=com.ThomasKole.Apollo15VR)
