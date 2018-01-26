@@ -99,6 +99,9 @@ Recommended Book: [Agile Game Development with Scrum, Keith (2010)](https://www.
 - [Expeditions](https://play.google.com/store/apps/details?id=com.google.vr.expeditions)
 - [Titans of Space VR](https://play.google.com/store/apps/details?id=com.drashvr.titansofspacecb)
 - [Owlchemy Labs](https://owlchemylabs.com/)
+- [WithIn](https://with.in/)
+- [Vimeo 360](https://join.vimeo.com/360/)
+- [YouTube VR](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.vr&hl=es)
 - [Cardboard Camera](https://play.google.com/store/apps/details?id=com.google.vr.cyclops)
 
 ### Bibliography
