@@ -71,7 +71,7 @@ In order to map the buttons of the controller with an Unity app running an Andro
 - [Input.GetKeyDown](https://docs.unity3d.com/ScriptReference/Input.GetKeyDown.html)
 - [Combination of Keys Pressed](https://answers.unity.com/questions/49285/how-can-i-get-a-combination-of-keys-pressed.html)
 
-### 8. Agile Development (Scrum)
+### 8. Agile Development for Video Games (Scrum)
 According to the Agile methodologies of development, elaborate a Gantt chart in the online tool [TeamGantt](https://www.teamgantt.com/) that takes into account the follwing components:
 - Game Design Document (GDD)
 - Requirements Elicitation
