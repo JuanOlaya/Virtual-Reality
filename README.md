@@ -9,7 +9,7 @@ For this course we use [Unity 3D](https://unity3d.com/) 5.6.3f1 and [OSVR](https
 
 <p align="center">
   <a>
-    <img src="Images/ReticleVR.png" width=450 height=270>
+    <img src="Images/ReticleVR.png" width=450 height=240>
   </a>
 </p>
 
