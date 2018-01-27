@@ -13,7 +13,7 @@ For this course we use [Unity 3D](https://unity3d.com/) 5.6.3f1 and [OSVR](https
   </a>
 </p>
 
-The Reticle VR or Gaze VR is useful to interact with GameObjects, as follows:
+The VR Reticle or VR Gaze is useful to interact with GameObjects, as follows:
 - Rotate GameObjects
 - Change Color of GameObjects
 - Destroy GameObjects
