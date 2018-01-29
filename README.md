@@ -1,6 +1,6 @@
 # VIRTUAL REALITY - CARDBOARD  (OSVR and Unity)
 
-This repository is associated with the subject Virtual Reality taught in the university School of Arts and Letters by Juan Olaya in the semester 2017.2. 
+This repository is associated with the subject Virtual Reality taught in the university School of Arts and Letters (Bogotá) by Juan Olaya in the semester 2017.2. 
 
 For this course we use [Unity 3D](https://unity3d.com/) 5.6.3f1 and [OSVR](https://github.com/OSVR/OSVR-Unity) as VR framework. OSVR is able to run on any Android device provided of a gyroscope and accelerometer. To check if your Android device is compatible, download the [Cardboard App](https://play.google.com/store/apps/details?id=com.google.samples.apps.cardboarddemo&hl=es_419). The following are the components required for the course.
 
@@ -90,7 +90,7 @@ Recommended Book: [Agile Game Development with Scrum, Keith (2010)](https://www.
 
 
 # STUDENT PROJECTS
-The students designed and developed (3) Serious Games and (4) Entertainment Games in the course Virtual Reality taught in the second semester of the year 2017. The video below shows these projects:
+The students designed and developed (3) Serious Games and (4) Entertainment Games using Unity and OSVR in the course Virtual Reality. This course was taught in the second semester of the year 2017. The video below shows these projects:
 
 <p align="center">
   <a href="https://youtu.be/51uu72lHyX4" target="_blank">
