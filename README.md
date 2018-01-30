@@ -1,6 +1,6 @@
 # VIRTUAL REALITY - CARDBOARD  (OSVR and Unity)
 
-This repository is associated with the subject Virtual Reality taught in the university School of Arts and Letters (Bogotá) by Juan Olaya in the semester 2017.2. 
+This repository is associated with the course Virtual Reality taught in the university School of Arts and Letters (Bogotá) by Juan Olaya in the semester 2017.2. 
 
 For this course we use [Unity 3D](https://unity3d.com/) 5.6.3f1 and [OSVR](https://github.com/OSVR/OSVR-Unity) as VR framework. OSVR is able to run on any Android device provided of a gyroscope and accelerometer. To check if your Android device is compatible, download the [Cardboard App](https://play.google.com/store/apps/details?id=com.google.samples.apps.cardboarddemo&hl=es_419). The following are the components required for the course.
 
@@ -39,7 +39,7 @@ Recommended Book: [Game Programming Patterns, Nystrom (2014) - Web version](http
 Assignment: Elaborate a Class (Script) Diagram of the Unity project that shows: the relationship among scripts, their attributes, their methods and software patterns. Recommended Book: [Object-Oriented Software Engineering: Practical Software Development Using UML and Java](https://www.amazon.com/Object-Oriented-Software-Engineering-Practical-Development/dp/0077109082)
 
 ### 5. Build and Run
-Assignment: Install [Android Studio](https://developer.android.com/studio/index.html) in your computer (PC or Mac) and using an Android device compatible with Cardboard, generate an Android app of the Unity VR project and then run the VR app in an Android device. For this assignment is highly recommended use a Cardboard.
+Assignment: Install [Android Studio](https://developer.android.com/studio/index.html) in your computer ,PC or Mac are supported, and using an Android device compatible with Cardboard, generate an Android app of the Unity VR project and then run the VR app in an Android device. For this assignment is highly recommended use a Cardboard.
 
 In order to enhance the performance of the App, setup the Texture Compression in the Build Settings, as is shown in the following image:
 
@@ -50,9 +50,9 @@ In order to enhance the performance of the App, setup the Texture Compression in
 </p>
 
 ### 6. Interactive Experience
-For the video game is relevant includ the concepts of Game Design, such as: goal of the game, score, rules, awards, vivid interactive storytelling and convincing mechanics. Moreover, is important to enrich the experience of the video game with:
+For the video game is relevant includ the concepts of Game Design, such as: goal of the game, score, rules, awards, vivid interactive storytelling and convincing mechanics. In addition, it is important to enrich the video game experience with:
 
-- Non Player Characters (NPC) from [Mixamo](https://www.mixamo.com)
+- Non-Player Characters (NPC) from [Mixamo](https://www.mixamo.com)
 - Waypoints (to move characters, animals or vehicles around)
 - Textures
 - Physics Simulation
@@ -61,9 +61,9 @@ For the video game is relevant includ the concepts of Game Design, such as: goal
 
 
 ### 7.  VR Glasses/Headset and Game Input for the Remote Controller 
-For this course is highly recommended to get some budget VR Glasses and a Bluetooth Remote Control compatible with Android devices. A device recomended is the VR-PARK Portable Wireless Bluetooth 3.0 Remote Controller and a plastic headset, for instance, the budget VR Box.
+For this course is highly recommended to obtain some budget VR Glasses and a Bluetooth Remote Control compatible with Android devices. The the VR-PARK Portable Wireless Bluetooth 3.0 Remote Controller and the cardboard VR Box are budget recomended devices.
 
-In order to map the buttons of the controller with an Unity app running an Android device please check the following information:
+In order to map the buttons between the bluetooth controller and the Unity app running on an Android device, please check the following information:
 
 - [KeyCode](https://docs.unity3d.com/ScriptReference/KeyCode.html)
 - [Conventional Game Input](https://docs.unity3d.com/Manual/ConventionalGameInput.html)
