@@ -17,7 +17,7 @@ The VR Reticle or VR Gaze is useful to interact with GameObjects, as follows:
 - Rotate GameObjects
 - Change Color of GameObjects
 - Destroy GameObjects
-- Drag and Drop 2D/3D GameObjects
+- Drag and Drop GameObjects in 2D/3D
 - Add Force to GameObjects (Normal Vector)
 - Impact Effect (Explosion Particles)
 
