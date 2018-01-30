@@ -39,7 +39,7 @@ Recommended Book: [Game Programming Patterns, Nystrom (2014) - Web version](http
 Assignment: Elaborate a Class (Script) Diagram of the Unity project that shows: the relationship among scripts, their attributes, their methods and software patterns. Recommended Book: [Object-Oriented Software Engineering: Practical Software Development Using UML and Java](https://www.amazon.com/Object-Oriented-Software-Engineering-Practical-Development/dp/0077109082)
 
 ### 5. Build and Run
-Assignment: Install [Android Studio](https://developer.android.com/studio/index.html) in your computer, PC and Mac are supported. Then generate an Android app in Unity from your VR project. Remember that the Android device (compatible with [Cardboard](https://play.google.com/store/apps/details?id=com.google.samples.apps.cardboarddemo&hl=es_419)) must to be connected to the computer during the Build and Run in order to map the Unity Main Camera with the device's gyroscope.
+Assignment: Install [Android Studio](https://developer.android.com/studio/index.html) in your computer, PC and Mac are supported. Then generate an Android app in Unity from your VR project. Remember that the Android device (compatible with [Cardboard](https://play.google.com/store/apps/details?id=com.google.samples.apps.cardboarddemo&hl=es_419)) must to be connected to the computer during the Build and Run in order to associate the Unity Main Camera with the device's gyroscope.
 
 In order to enhance the performance of the App, setup the Texture Compression in the Build Settings, as is shown in the following image:
 
