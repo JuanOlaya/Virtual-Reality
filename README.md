@@ -41,9 +41,6 @@ Assignment: Elaborate a Class (Script) Diagram of the Unity project that shows: 
 ### 5. Build and Run
 Assignment: Install [Android Studio](https://developer.android.com/studio/index.html) in your computer, PC and Mac are supported. Then generate an Android app in Unity from your VR project. Remember that the Android device (compatible with [Cardboard](https://play.google.com/store/apps/details?id=com.google.samples.apps.cardboarddemo&hl=es_419)) must to be connected to the computer during the Build and Run in order to map the Unity Main Camera with the device's gyroscope.
 
-
-and using an Android device compatible with Cardboard,  and then run the VR app in an Android device. For this assignment is highly recommended use a Cardboard.
-
 In order to enhance the performance of the App, setup the Texture Compression in the Build Settings, as is shown in the following image:
 
 <p align="center">
