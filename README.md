@@ -4,7 +4,6 @@ This repository is associated with the course Virtual Reality taught in the univ
 
 For this course we use [Unity 3D](https://unity3d.com/) 5.6.3f1 and [OSVR](https://github.com/OSVR/OSVR-Unity) as VR framework. OSVR is able to run on any Android device provided of a gyroscope and accelerometer. To check if your Android device is compatible, download the [Cardboard App](https://play.google.com/store/apps/details?id=com.google.samples.apps.cardboarddemo&hl=es_419). The following are the components required for the course.
 
-
 ### 1. VR Reticle 
 
 <p align="center">
@@ -97,6 +96,8 @@ The students designed and developed (3) Serious Games and (4) Entertainment Game
     <img src="Images/YoutubeVideo.png" width=600 height=340>
   </a>
 </p>
+
+***
 
 ## VR Links:
 - [VR Best Practices - Oculus Dev](https://developer.oculus.com/design/latest/concepts/book-bp/)
