@@ -49,7 +49,7 @@ In order to enhance the performance of the App, setup the Texture Compression in
 </p>
 
 ### 6. Interactive Experience
-For the video game is relevant includ the concepts of Game Design, such as: goal of the game, score, rules, awards, vivid interactive storytelling and convincing mechanics. In addition, it is important to enrich the video game experience with:
+For the video game is relevant includ the concepts of Game Design, such as: goals, score, rules, awards, convincing mechanics and vivid interactive storytelling. In addition, it is important to enrich the video game experience with:
 
 - Non-Player Characters (NPC) from [Mixamo](https://www.mixamo.com)
 - Waypoints (to move characters, animals or vehicles around)
