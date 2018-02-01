@@ -86,6 +86,7 @@ Recommended Book: [Agile Game Development with Scrum, Keith (2010)](https://www.
 - [A Taxonomy of Mixed Reality Visual Display, Milgram (1994) - Online Version](http://etclab.mie.utoronto.ca/people/paul_dir/IEICE94/ieice.html)
 - [Game Programming Patterns, Nystrom (2014) - Online Version](http://gameprogrammingpatterns.com/contents.html)
 - [Artificial Reality 2, Krueger (1991)](https://www.amazon.com/Artificial-Reality-2nd-Myron-Krueger/dp/0201522608/ref=sr_1_2?ie=UTF8&qid=1497846274&sr=8-2&keywords=Artificial+Reality)
+- [A Study Path For Game Programmer - Yip (2016)](https://github.com/miloyip/game-programmer)
 
 
 # STUDENT PROJECTS
@@ -109,7 +110,6 @@ The students designed and developed (3) Serious Games and (4) Entertainment Game
 - [Degrees of Freedom](http://www.leadingones.com/articles/intro-to-vr-4.html)
 - [Google AR and VR Blog](https://blog.google/products/google-vr/)
 - [Google Cardboard - Dev](https://developers.google.com/vr/) 
-- [A Study Path For Game Programmer](https://github.com/miloyip/game-programmer)
 
 ## Example VR Apps
 - [Altspace VR](https://altvr.com/)
