@@ -5,13 +5,11 @@ This repository is associated with the course Virtual Reality, taught in the uni
 For this course we use [Unity 3D](https://unity3d.com/) 5.6.3f1 and [OSVR](https://github.com/OSVR/OSVR-Unity) as VR framework. OSVR is able to run on any Android device provided of a gyroscope and accelerometer. To check if your Android device is compatible, download the [Cardboard App](https://play.google.com/store/apps/details?id=com.google.samples.apps.cardboarddemo&hl=es_419). The following are the components required for the course.
 
 ### 1. VR Reticle 
-
 <p align="center">
   <a>
     <img src="Images/VRreticle.gif" width=350 height=190>
   </a>
 </p>
-
 The VR Reticle or VR Gaze is useful to interact with GameObjects, as follows:
 - Rotate GameObjects
 - Change Color of GameObjects
@@ -58,7 +56,6 @@ For the video game is relevant includ the concepts of Game Design, such as: goal
 - Explosion Simulation
 - Sound Effects 
 
-
 ### 7.  VR Glasses/Headset and Game Input for the Remote Controller 
 For this course is highly recommended to obtain some budget VR Glasses and a Bluetooth Remote Control compatible with Android devices. The the VR-PARK Portable Wireless Bluetooth 3.0 Remote Controller and the cardboard VR Box are budget recomended devices.
 
@@ -86,7 +83,7 @@ Recommended Book: [Agile Game Development with Scrum, Keith (2010)](https://www.
 - [A Taxonomy of Mixed Reality Visual Display, Milgram (1994) - Online Version](http://etclab.mie.utoronto.ca/people/paul_dir/IEICE94/ieice.html)
 - [Game Programming Patterns, Nystrom (2014) - Online Version](http://gameprogrammingpatterns.com/contents.html)
 - [Artificial Reality 2, Krueger (1991)](https://www.amazon.com/Artificial-Reality-2nd-Myron-Krueger/dp/0201522608/ref=sr_1_2?ie=UTF8&qid=1497846274&sr=8-2&keywords=Artificial+Reality)
-- [A Study Path For Game Programmer - Yip (2016)](https://github.com/miloyip/game-programmer)
+- [A Study Path For Game Programmer, Yip (2016)](https://github.com/miloyip/game-programmer)
 
 
 # STUDENT PROJECTS
