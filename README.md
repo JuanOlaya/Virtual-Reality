@@ -28,7 +28,7 @@ For Virtual Reality in this course we focused in First Person Character Controll
 - Car Controller
 
 ### 3. Software Patterns 
-OSVR, as VR framework, allows use concepts such Interactive Item and Eye Raycaster. In order, to use these concepts properly is crucial to add the VR Eye Raycaster script to only one GameObject. For instance, add it to the camera GameObject. Also, add VR Interactive Item script to each GameObject. 
+OSVR, as VR framework, allows use concepts such Interactive Item and Eye Raycaster. In order, to use these concepts properly is relevant to add the VR Eye Raycaster script to only one GameObject. For instance, add it to the camera GameObject. Also, add VR Interactive Item script to each GameObject. 
 
 Assignment: Identify the software patterns that have been used by these concepts/scripts.
 Recommended Book: [Game Programming Patterns, Nystrom (2014) - Online version](http://gameprogrammingpatterns.com/contents.html)
@@ -109,6 +109,7 @@ The students designed and developed (3) Serious Games and (4) Entertainment Game
 - [Degrees of Freedom](http://www.leadingones.com/articles/intro-to-vr-4.html)
 - [Google AR and VR Blog](https://blog.google/products/google-vr/)
 - [Google Cardboard - Dev](https://developers.google.com/vr/) 
+- [A Study Path For Game Programmer](https://github.com/miloyip/game-programmer)
 
 ## Example VR Apps
 - [Altspace VR](https://altvr.com/)
