@@ -97,7 +97,7 @@ The students designed and developed (3) Serious Games and (4) Entertainment Game
 
 ***
 
-## VR Developer Links
+## Developer VR Links
 - [VR Best Practices - Oculus Dev](https://developer.oculus.com/design/latest/concepts/book-bp/)
 - [Designing for Google Cardboard - Google Dev](https://designguidelines.withgoogle.com/cardboard/designing-for-google-cardboard/a-new-dimension.html)
 - [UX of VR](https://www.uxofvr.com/)
@@ -110,6 +110,7 @@ The students designed and developed (3) Serious Games and (4) Entertainment Game
 
 ## Example VR Apps
 - [Altspace VR](https://altvr.com/)
+- [vTime](https://www.oculus.com/experiences/rift/1109834805714906/)
 - [Google Earth VR](https://vr.google.com/earth/)
 - [Play Store - Cardboard](https://play.google.com/store/apps/collection/promotion_3001011_cardboard_featured_apps?hl=es_419)
 - [NextVR](https://www.nextvr.com/)
@@ -125,4 +126,10 @@ The students designed and developed (3) Serious Games and (4) Entertainment Game
 - [Google Cardboard Camera](https://play.google.com/store/apps/details?id=com.google.vr.cyclops)
 - [Google Cardboard Design Lab](https://play.google.com/store/apps/details?id=com.google.vr.cardboard.apps.designlab&hl=es)
 - [Facebook 360](https://facebook360.fb.com/)
-
+- [Chrome VR](https://vr.chromeexperiments.com/)
+- [Virtual Virtual Reality](http://vvr.tenderclaws.com/)
+- [Need for Speed™ No Limits VR](https://play.google.com/store/apps/details?id=com.ea.gp.nfs14vr&hl=es_419)
+- [Minecraft VR](https://minecraft.net/en-us/vr/)
+- [Rangi](https://www.oculus.com/experiences/gear-vr/1179587862133850/)
+- [Esper 2](https://www.oculus.com/experiences/gear-vr/779304552192363/)
+ -[Dead Secret](http://store.steampowered.com/app/402260/Dead_Secret/)
