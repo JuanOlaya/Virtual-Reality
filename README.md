@@ -137,3 +137,5 @@ The students designed and developed (3) Serious Games and (4) Entertainment Game
 - [Keep Talking and Nobody Explodes](http://www.keeptalkinggame.com/)
 - [EVE: Gunjack](https://www.gunjack.com/)
 - [Wands](http://store.steampowered.com/app/741400/Wands/)
+- [Google Arts & Culture VR](https://play.google.com/store/apps/details?id=com.google.vr.museums&hl=en_US)
+- [Star Chart Cardboard](https://play.google.com/store/apps/details?id=com.escapistgames.starchartvr&hl=en)
