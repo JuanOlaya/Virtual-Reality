@@ -139,3 +139,7 @@ The students designed and developed (3) Serious Games and (4) Entertainment Game
 - [Wands](http://store.steampowered.com/app/741400/Wands/)
 - [Google Arts & Culture VR](https://play.google.com/store/apps/details?id=com.google.vr.museums&hl=en_US)
 - [Star Chart Cardboard](https://play.google.com/store/apps/details?id=com.escapistgames.starchartvr&hl=en)
+- [LEGO® BrickHeadz Builder VR](https://play.google.com/store/apps/details?id=com.lego.brickheadz.dreambuilder&hl=es)
+- [Daydream Experiences](https://vr.google.com/daydream/experiences/)
+- [Claro VR](https://play.google.com/store/apps/details?id=com.superbright.claro)
+- [Mekorama VR](https://play.google.com/store/apps/details?id=com.martinmagni.mekorama.vr&hl=es_419)
