@@ -97,7 +97,7 @@ The students designed and developed (3) Serious Games and (4) Entertainment Game
 
 ***
 
-## VR Links:
+## VR Developer Links
 - [VR Best Practices - Oculus Dev](https://developer.oculus.com/design/latest/concepts/book-bp/)
 - [Designing for Google Cardboard - Google Dev](https://designguidelines.withgoogle.com/cardboard/designing-for-google-cardboard/a-new-dimension.html)
 - [UX of VR](https://www.uxofvr.com/)
@@ -124,4 +124,5 @@ The students designed and developed (3) Serious Games and (4) Entertainment Game
 - [Google Spotlight Stories](https://play.google.com/store/apps/details?id=com.google.android.spotlightstories&hl=es&rdid=com.google.android.spotlightstories)
 - [Google Cardboard Camera](https://play.google.com/store/apps/details?id=com.google.vr.cyclops)
 - [Google Cardboard Design Lab](https://play.google.com/store/apps/details?id=com.google.vr.cardboard.apps.designlab&hl=es)
+- [Facebook 360](https://facebook360.fb.com/)
 
