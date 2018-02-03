@@ -1,4 +1,4 @@
-# CARDBOARD VIRTUAL REALITY (OSVR + Unity)
+# CARDBOARD VIRTUAL REALITY (OSVR + UNITY)
 
 This repository is associated with the course Virtual Reality, taught in the university [School of Arts and Letters](https://artesyletras.com.co/ingenieria-de-las-artes-digitales/) (Bogotá) by Juan Olaya in the semester 2017.2. 
 
