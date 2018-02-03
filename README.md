@@ -109,4 +109,4 @@ The students designed and developed (3) Serious Games and (4) Entertainment Game
 - [Google Cardboard - Dev](https://developers.google.com/vr/) 
 
 ## [Example VR Apps](https://github.com/JuanOlaya/Virtual-Reality/blob/master/exampleVR.md#example-vr-apps)
-[Social VR, Games VR, App VR, Exploration 360°](https://github.com/JuanOlaya/Virtual-Reality/blob/master/exampleVR.md#example-vr-apps)
+[Social VR, Games VR, Apps VR and Exploration 360°](https://github.com/JuanOlaya/Virtual-Reality/blob/master/exampleVR.md#example-vr-apps)
