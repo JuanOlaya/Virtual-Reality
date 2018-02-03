@@ -144,3 +144,4 @@ The students designed and developed (3) Serious Games and (4) Entertainment Game
 - [Claro VR](https://play.google.com/store/apps/details?id=com.superbright.claro)
 - [Mekorama VR](https://play.google.com/store/apps/details?id=com.martinmagni.mekorama.vr&hl=es_419)
 - [EarthShape](https://play.google.com/store/apps/details?id=com.bithellgames.earthshape)
+- [The Guardian VR](https://play.google.com/store/apps/details?id=com.guardian.gvr)
