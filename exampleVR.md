@@ -1,4 +1,6 @@
 ## Example VR Apps
+Social VR, Games VR, Apps VR and Exploration 360°
+
 - [Altspace VR](https://altvr.com/)
 - [vTime](https://www.oculus.com/experiences/rift/1109834805714906/)
 - [Google Earth VR](https://vr.google.com/earth/)
