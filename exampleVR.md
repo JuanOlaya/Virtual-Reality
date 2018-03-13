@@ -4,14 +4,14 @@ Social VR, Games VR, Apps VR and Exploration 360°
 #### Phobia
 - [Richie's Plank Experience](http://store.steampowered.com/app/517160/Richies_Plank_Experience/)
 
-### Environment
+#### Environment
 - [The Stanford Ocean Acidification Experience](http://store.steampowered.com/app/409020/The_Stanford_Ocean_Acidification_Experience/)
 
-### Social
+#### Social
 - [Altspace VR](https://altvr.com/)
 - [vTime](https://www.oculus.com/experiences/rift/1109834805714906/)
 
-### Exploration 360
+#### Exploration 360
 - [Discovery VR](https://play.google.com/store/apps/details?id=com.discovery.DiscoveryVR)
 - [Google Arts & Culture VR](https://play.google.com/store/apps/details?id=com.google.vr.museums&hl=en_US)
 - [Vimeo 360](https://join.vimeo.com/360/)
@@ -22,7 +22,7 @@ Social VR, Games VR, Apps VR and Exploration 360°
 - [Titans of Space VR](https://play.google.com/store/apps/details?id=com.drashvr.titansofspacecb)
 
 
-### Entertainment
+#### Entertainment
 - [Need for Speed™ No Limits VR](https://play.google.com/store/apps/details?id=com.ea.gp.nfs14vr&hl=es_419)
 - [Minecraft VR](https://minecraft.net/en-us/vr/)
 - [LEGO® BrickHeadz Builder VR](https://play.google.com/store/apps/details?id=com.lego.brickheadz.dreambuilder&hl=es)
@@ -32,13 +32,13 @@ Social VR, Games VR, Apps VR and Exploration 360°
 - [Esper 2](https://www.oculus.com/experiences/gear-vr/779304552192363/)
 - [Dead Secret](http://store.steampowered.com/app/402260/Dead_Secret/) 
 
-### TV
+#### TV
 - [NextVR](https://www.nextvr.com/)
 - [WithIn](https://with.in/)
 - [YouTube VR](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.vr&hl=es)
 - [Claro VR](https://play.google.com/store/apps/details?id=com.superbright.claro)
 
-### Others
+#### Others
 
 - [Play Store - Cardboard](https://play.google.com/store/apps/collection/promotion_3001011_cardboard_featured_apps?hl=es_419)
 - [Owlchemy Labs](https://owlchemylabs.com/)
