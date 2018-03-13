@@ -1,7 +1,7 @@
 ## Example VR Apps
 Social VR, Games VR, Apps VR and Exploration 360°
 
-### Phobia
+#### Phobia
 - [Richie's Plank Experience](http://store.steampowered.com/app/517160/Richies_Plank_Experience/)
 
 ### Environment
