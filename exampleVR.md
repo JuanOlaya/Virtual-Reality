@@ -23,9 +23,9 @@ Social VR, Games VR, Apps VR and Exploration 360°
 
 
 #### Entertainment
-- [Need for Speed™ No Limits VR](https://play.google.com/store/apps/details?id=com.ea.gp.nfs14vr&hl=es_419)
-- [Minecraft VR](https://minecraft.net/en-us/vr/)
 - [LEGO® BrickHeadz Builder VR](https://play.google.com/store/apps/details?id=com.lego.brickheadz.dreambuilder&hl=es)
+- [Minecraft VR](https://minecraft.net/en-us/vr/)
+- [Need for Speed™ No Limits VR](https://play.google.com/store/apps/details?id=com.ea.gp.nfs14vr&hl=es_419)
 - [Blade Runner 2049: Replicant Pursuit](https://www.oculus.com/experiences/gear-vr/1558723417494666/)
 - [Hitman Go VR](https://www.oculus.com/experiences/rift/676747619095568/)
 - [Rangi](https://www.oculus.com/experiences/gear-vr/1179587862133850/)
