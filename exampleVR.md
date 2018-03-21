@@ -56,7 +56,7 @@ Social VR, Games VR, Apps VR and Exploration 360°
 - [The Guardian VR](https://play.google.com/store/apps/details?id=com.guardian.gvr)
 - [Daydream Experiences](https://vr.google.com/daydream/experiences/)
 
-#### AR
+#### Augmented Reality
 - [AR section on Google Play](https://play.google.com/store/apps/topic?id=campaign_editorial_300309e_AR_week_2018_cep)
 
 
