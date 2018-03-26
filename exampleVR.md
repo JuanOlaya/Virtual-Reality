@@ -60,3 +60,7 @@ Social VR, Games VR, Apps VR and Exploration 360°
 - [AR section on Google Play](https://play.google.com/store/apps/topic?id=campaign_editorial_300309e_AR_week_2018_cep)
 
 
+#### Interactive films VR
+- [Kobold VR](http://anotherworldvr.com/)
+
+
