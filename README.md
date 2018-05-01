@@ -108,6 +108,7 @@ The students designed and developed (3) Serious Games and (4) Entertainment Game
 - [Degrees of Freedom](http://www.leadingones.com/articles/intro-to-vr-4.html)
 - [Google AR and VR Blog](https://blog.google/products/google-vr/)
 - [Google Cardboard - Dev](https://developers.google.com/vr/) 
+- [Google ARCore](https://developers.google.com/ar/discover/#supported_devices)
 
 ## [Example VR Apps](https://github.com/JuanOlaya/Virtual-Reality/blob/master/exampleVR.md#example-vr-apps)
 Check out the list of VR apps -> [Social VR, Games VR, Apps VR, Exploration 360° and Augmented Reality](https://github.com/JuanOlaya/Virtual-Reality/blob/master/exampleVR.md#example-vr-apps)
